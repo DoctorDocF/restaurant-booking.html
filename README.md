@@ -1,7 +1,7 @@
 # restaurant-booking.html
 # Лендинг для бронирования столиков в ресторане "EliteResto"
 
-[Посмотреть готовый проект на GitHub Pages](https://DoctorDocF.github.io/restaurant-booking-landing/) | [Исходный код](index.html)
+[Посмотреть готовый проект на GitHub Pages](https://doctordocf.github.io/restaurant-booking.html/) | [Исходный код](index.html)
 
 ## О проекте
 
