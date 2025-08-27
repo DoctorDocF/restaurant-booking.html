@@ -1,7 +1,7 @@
 # restaurant-booking.html
 # Лендинг для бронирования столиков в ресторане "EliteResto"
 
-[Посмотреть готовый проект на GitHub Pages](https://ваш-логин.github.io/restaurant-booking-landing/) | [Исходный код](.)
+[Посмотреть готовый проект на GitHub Pages](https://DoctorDocF.github.io/restaurant-booking-landing/) | [Исходный код](.)
 
 ## О проекте
 
@@ -34,7 +34,7 @@
 
 1.  Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/ваш-логин/restaurant-booking-landing.git
+    git clone https://github.com/DoctorDocF/restaurant-booking-landing.git
     ```
 2.  Перейдите в папку проекта:
     ```bash
